@@ -1,6 +1,6 @@
 # CK_KTPM
 # Chức năng lựa chọn: Đăng nhập
-# Web sử dụng để kiểm thử: https://grocery-store-jade-ten.vercel.app/product
+# Web sử dụng để kiểm thử: https://viblo.asia/newest
 # Vai trò của các thành viên:  
   - Test Case: Đăng nhập thành công bằng thông tin đăng nhập - Nguyễn Ngọc Thanh Thảo
   - Test Case: Đăng nhập không thành công với Username không đúng - Trần Trung Hiếu
