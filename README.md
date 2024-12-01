@@ -1,5 +1,5 @@
 # CK_KTPM
-# Chức năng lựa chọn: Đăng nhập
+# Chức năng lựa chọn: Đăng nhập, Đăng xuất
 # Web sử dụng để kiểm thử: https://viblo.asia/newest
 # Vai trò của các thành viên:  
   - Test Case: Đăng nhập thành công bằng thông tin đăng nhập - Nguyễn Ngọc Thanh Thảo
